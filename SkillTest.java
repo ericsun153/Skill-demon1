@@ -5,6 +5,6 @@ import org.junit.*;
 public class SkillTest {
     @Test
     public void minusTest() {
-	    assertEquals(2, Skill.minus(3, 2)); // the test passes
+	    assertEquals(2, Skill.minus(4, 2)); // the test passes
     }
 }
