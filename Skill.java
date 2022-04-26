@@ -1,3 +1,5 @@
 public class Skill {
-VSC
+    public static int minus(int a, int b) {
+        return a - b;
+    }
 }
